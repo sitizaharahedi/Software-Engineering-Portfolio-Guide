@@ -27,4 +27,4 @@
 
 
 
-➡️ **Interested in Data Science & Analytics projects? Check out my [Data Science & Analytics Portfolio](hhttps://github.com/sitizaharahedi/Data-Portfolio-Guide/blob/main/README.md) here.**
+➡️ **Interested in Data Science & Analytics projects? Check out my [Data Science & Analytics Portfolio](https://github.com/sitizaharahedi/Data-Portfolio-Guide) here.**
