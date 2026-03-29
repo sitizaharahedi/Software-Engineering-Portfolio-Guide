@@ -9,11 +9,11 @@
 ***
 
 # Software_Engineering
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 🛍️ [CRM Sales Opportunities](https://github.com/sitizaharahedi/Python-Projects/blob/main/CRM_Data_Cleaning_FIXED.ipynb) |   ... | ... | ... |   
-| 🏦 [Bank Marketing](https://github.com/sitizaharahedi/Python-Projects/blob/main/Bank_Marketing_FIXED.ipynb) | ... | ... |  ... |   
-| ⚡ [Power Consumption](https://github.com/sitizaharahedi/Python-Projects/blob/main/Power_Consumption_FIXED.ipynb) | ... | ... | ... |   
+| Project Link | Project Description | Tools / Technologies |    
+|---|---|---|
+| 📱 [Contact Manager](https://github.com/sitizaharahedi/Contact-Manager-SE-Project) | Built a full-stack contact manager with CRUD functionality, REST API backend, and React frontend, demonstrating database integration and frontend-backend interaction. | Python, Flask, React, SQLAlchemy, SQLite |     
+| 💻 [Flask Notes App](https://github.com/sitizaharahedi/Flask-Notes-App-SE-Project) | Built a full-stack notes application with user authentication and CRUD functionality, demonstrating Flask backend, database integration, and responsive frontend using Bootstrap. | Python, Flask, SQLAlchemy, SQLite, Bootstrap, JavaScript |
+| 🎬 [Movie App](https://github.com/sitizaharahedi/Movie-App-SE-Project) | Built a responsive frontend movie app with React, Context API, and TMDB API integration, featuring movie browsing, search, and local favorites persistence. | React, Context API, React Router, TMDB API, CSS, Vite |
 
 ***
 
